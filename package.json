@@ -1,0 +1,14 @@
+{
+  "name": "react-slider-native",
+  "version": "1.0.1",
+  "description": "a basic image slider for react native",
+  "main": "Slider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactnative"
+  ],
+  "author": "ayu5h",
+  "license": "ISC"
+}
